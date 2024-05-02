@@ -13,3 +13,23 @@ The Gadget Purchase Assistant is a handy tool designed to help users make inform
 * Recommendations: Receive personalized recommendations based on your preferences and browsing history.
 * Deal Alerts: Get notified about special deals, discounts, and promotions on your favorite gadgets.
 
+## Installation
+* Install the necessary dependencies using python,django rest framework install.
+* Run the application using py manage.py runserver localhost
+
+## Contributing
+
+We welcome contributions from the community to improve the Gadget Purchase Assistant. If you'd like to contribute, please follow these steps:
+
+* Fork the repository.
+* Create a new branch for your feature or bug fix.
+* Make your changes and submit a pull request.
+
+
+
+
+
+Feel free to customize this template with specific details about your gadget purchase project. Happy coding!
+
+
+
