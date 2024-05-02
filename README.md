@@ -13,11 +13,3 @@ The Gadget Purchase Assistant is a handy tool designed to help users make inform
 * Recommendations: Receive personalized recommendations based on your preferences and browsing history.
 * Deal Alerts: Get notified about special deals, discounts, and promotions on your favorite gadgets.
 
-
-## Features
-
-- Authentication/active link send 
-- Email send 
-- Emplayee Assets return date expried . then send the email 
-
-
